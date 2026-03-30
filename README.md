@@ -3,3 +3,4 @@
 
 ### Track Days
 1. Console, Variables, Data types, Keywords, Outputs.
+2. Template literals, Operators, Conditional statements, alerts and prompt.
